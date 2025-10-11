@@ -12,7 +12,7 @@
 - 빨간색으로[API Error: Model stream ended with empty response text.] 이런 오류가 뜨면, gemini한테 오류가 났다고 알려주시면 돼요!
 
 (이 아래 전체를 그냥 복사하셔서 그대로 gemini한테 붙여넣기 하시면 됩니다. 참고로 {목표}에 원하시는 걸 적으시고 복사하셔야 됩니당! 그리고 [실행전]도 초함해서 붙여넣으시면 돼요!)
-# 명령어 전문
+# 명령어 전문(목표만 수정 후, 아래 모두 복붙해주세요~)
 
 [실행 전]
 - 항상 gemini를 (업데이트가 안되어있다면) 최신 버전으로 업데이트를 한다. (npm install -g @google/gemini-cli)
@@ -57,5 +57,3 @@
 - npm warn using --force Recommended protections disabled. 이슈
 -`npm install` 명령이 성공적으로 끝나면서, 자기 자신을 호출한 .bat` 스크립트까지 강제로 종료시키는 이슈(프로세스 격리(Process Isolation) 필요?)
 - [API Error: Model stream ended with empty response text.]
-
-=========================
